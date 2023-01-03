@@ -1,0 +1,13 @@
+git branch - aparece o nome das branchs existentes e qual branch está sendo usada
+
+git branch 'branch_example' - cria uma branch
+
+git branch -d 'branch_example' - deleta uma branch
+git branch -D 'branch_example' - deleta uma branch independente das mudanças feitas
+
+git checkout 'branch_example' - entra na branch escolhida
+
+git checkout -b 'branch_example' - cria a branch e tmabém muda para escolhida
+
+
+
