@@ -40,3 +40,7 @@ git remote -v - lista os links do git push e git fetch
 git remote rm origin - remove os links de push e fetch
 git remote add origin 'link do repositório' - adciona o link para o push e fetch
     importante lembrar que ele reseta as configurações de git push, fetch, branchs e etc...
+
+git submodule - mostra todos os submodulos
+git submodule add 'link do submodulo' 'nome da pasta que o submodulo'- cria um submodulo
+git push --recurse-submodule=on-demand - envia as alterações de um submodulo para o seu repositório
