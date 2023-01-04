@@ -9,5 +9,9 @@ git checkout 'branch_example' - entra na branch escolhida
 
 git checkout -b 'branch_example' - cria a branch e tmabém muda para escolhida
 
+git merge 'branch_example' - mescla os dados da branch atual com a branch escolhida,
+    muito utilizado para fazer updates nas branchs e para enviar novas funcionalidades
 
-
+git stash - joga as aleraçoes feitas em uma espécie de 'lixeira'
+git stash list - lista as stash criadas
+gti stash 
