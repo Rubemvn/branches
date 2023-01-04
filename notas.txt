@@ -17,4 +17,5 @@ git stash list - lista as stash criadas
 git stash apply '0' - recupera a stash selecionada
 git stash show -p '0' - mostra as alerações na stash selecionada
 git stash clear - deleta todas as stash criadas
-gti stash drop 
+gti stash drop '0' - deleta stash selecionada
+
