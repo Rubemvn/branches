@@ -21,4 +21,5 @@ git stash drop '0' - deleta stash selecionada
 
 git tag -a 'example_tag' -m "nova tag" - cria uma tag naquela branch
     tag funciona como um tipo de checkpoint, no qual você pode voltar a qualquer momento
- 
+git tag - lista as tags existentes
+git show "nome da tag"
