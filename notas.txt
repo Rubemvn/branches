@@ -29,5 +29,5 @@ git push origin 'nome da tag' - envia a tag selecionada para o repositório
 git push origin --tags - envia todas as tags para o repositório
 git merge 'nome da tag' - mescla a tag selecionada com uma branch ou até mesmo com outra tag
 
-
-rúbem é muito lindo pakas
+git push origin --delete 'nome do branch' - deleta um branch do remoto
+git push origin :'nome do branch' - deleta um branch do remoto
