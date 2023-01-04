@@ -33,3 +33,6 @@ git push origin --delete 'nome do branch' - deleta um branch do remoto
 git push origin :'nome do branch' - deleta um branch do remoto
 
 git fetch -a - pega as todas as branchs do repositório
+
+git pull - atualiza a branch atual com a mesma branch do remoto
+
