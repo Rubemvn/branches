@@ -19,3 +19,6 @@ git stash show -p '0' - mostra as alerações na stash selecionada
 git stash clear - deleta todas as stash criadas
 git stash drop '0' - deleta stash selecionada
 
+git tag -a 'example_tag' -m "nova tag" - cria uma tag naquela branch
+    tag funciona como um tipo de checkpoint, no qual você pode voltar a qualquer momento
+ 
