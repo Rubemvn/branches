@@ -3,3 +3,12 @@
     margin: 0;
     background-color: #292929;
 }
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
