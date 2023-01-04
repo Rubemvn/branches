@@ -14,4 +14,7 @@ git merge 'branch_example' - mescla os dados da branch atual com a branch escolh
 
 git stash - joga as aleraçoes feitas em uma espécie de 'lixeira'
 git stash list - lista as stash criadas
-gti stash 
+git stash apply '0' - recupera a stash selecionada
+git stash show -p '0' - mostra as alerações na stash selecionada
+git stash clear - deleta todas as stash criadas
+gti stash drop 
