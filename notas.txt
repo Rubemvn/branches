@@ -24,3 +24,8 @@ git tag -a 'example_tag' -m "nova tag" - cria uma tag naquela branch
 git tag - lista todas as tag criadas
 git show 'nome da tag' - mostra os detalhes da tag selecionada
 git checkout 'nome da tag' - entra na tag selecionada
+git tag -d 'nome da tag' - deleta uma tag
+git push origin 'nome da tag' - envia a tag selecionada para o repositório
+git push origin --tags - envia todas as tags para o repositório
+git merge 'nome da tag' - mescla a tag selecionada com uma branch ou até mesmo com outra tag
+ 
