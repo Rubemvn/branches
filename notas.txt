@@ -28,4 +28,6 @@ git tag -d 'nome da tag' - deleta uma tag
 git push origin 'nome da tag' - envia a tag selecionada para o repositório
 git push origin --tags - envia todas as tags para o repositório
 git merge 'nome da tag' - mescla a tag selecionada com uma branch ou até mesmo com outra tag
- 
+
+
+rúbem é muito lindo pakas
