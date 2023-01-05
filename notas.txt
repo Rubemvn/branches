@@ -124,4 +124,6 @@ git fsck - verifica possíveis corrupções em nossos arquivos
 git reflog - mostra todas as alterações feitas no seu repositório, em um espaço de 30 diferenças
     bom para mapear ações feitase e encontrar erros
 
-
+git archive --format zip --output 'arquivo.zip' 'nome da branch' - pega a branch selecionada
+    e comprime ela em um arquivo .zip
+    
