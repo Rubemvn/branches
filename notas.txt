@@ -112,3 +112,5 @@ git diff - mostra as diferenças da branch local para a branch do remoto
 git diff 'nome da branch' - mostra as diferenças da branch atual apra a branch selecionada
 git diff HEAD:arquivo01.txt arquivo02.txt - mostra as diferenças do arquivos local e remoto
 
+git shortlog - mostra todas as atualizações do repositório
+
