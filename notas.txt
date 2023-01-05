@@ -47,3 +47,4 @@ git push --recurse-submodule=on-demand - envia as alterações de um submodulo p
 
 git show - apresenta informações detalhadas de um repositório
 git show 'tag' - apresenta informações de uma tag
+git diff - 
