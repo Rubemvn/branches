@@ -44,3 +44,6 @@ git remote add origin 'link do repositório' - adciona o link para o push e fetc
 git submodule - mostra todos os submodulos
 git submodule add 'link do submodulo' 'nome da pasta que o submodulo'- cria um submodulo
 git push --recurse-submodule=on-demand - envia as alterações de um submodulo para o seu repositório
+
+git show - apresenta informações detalhadas de um repositório
+git show 'tag' - apresenta informações de uma tag
