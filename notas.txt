@@ -114,3 +114,5 @@ git diff HEAD:arquivo01.txt arquivo02.txt - mostra as diferenças do arquivos lo
 
 git shortlog - mostra todas as atualizações do repositório
 
+git clean -f - força uma limpeza de arquivos que não foram adcionados ainda.
+
