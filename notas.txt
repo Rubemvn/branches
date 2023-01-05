@@ -116,3 +116,5 @@ git shortlog - mostra todas as atualizações do repositório
 
 git clean -f - força uma limpeza de arquivos que não foram adcionados ainda.
 
+git gc - faz uma varredura no repositório, e elimina arquivos que el julga não ser mais útil
+
